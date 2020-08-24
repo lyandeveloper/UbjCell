@@ -1,3 +1,8 @@
 # UbjCell
 
-Loja virtual criada com Woocommerce
+Loja virtual de celulares criada com Woocommerce.
+
+## Plugins
+
+- Woocommerce
+- Elementor
